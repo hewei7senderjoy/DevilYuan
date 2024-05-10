@@ -1,0 +1,3 @@
+pip install tushare -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install https://github.com/matplotlib/mpl_finance/archive/master.zip
+conda install -c conda-forge ta-lib
